@@ -12,3 +12,8 @@
 
 * completed basics of responsive webdesign.
 * learned about @mediaqueries in css and tried it out in a simple webpage. 
+
+### Day 3
+
+* Completed Flexboxes 
+* Created a  Simple browser homepage  using Flex 🤗
