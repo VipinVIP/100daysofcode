@@ -14,7 +14,7 @@ body {
   min-width: 150px;
   margin-left: auto;
   margin-right: auto;
-  padding-right: 5vw;
+  padding-left: 5vw;
 }
 .container {
   display: flex;
@@ -43,5 +43,8 @@ body {
   .container .button {
     width: 100%;
     margin-top: 10px;
+    border-radius: 5px;
+    margin-left:0px;
   }
+  
 }
