@@ -17,3 +17,8 @@
 
 * Completed Flexboxes 
 * Created a  Simple browser homepage  using Flex 🤗
+
+### Day 4
+
+* Completed css grids.
+* Created yesterdays same homepage, but with Grids 
