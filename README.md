@@ -7,3 +7,9 @@ The daily log of 100 days of Javascript 🧑‍💻
 - Did a quick refresh over the JS datatypes , variables , scopes etc using [FreecodeCamp's video](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - Simple array operations like pop(), shift() , push() , unshift()
 - Precedance of scopes
+
+## Day 2
+
+- Continued the freecode camp video refreshing basics
+- Operators, loops, conditional outputs
+- Objects : updating , deleting , inserting its properties
