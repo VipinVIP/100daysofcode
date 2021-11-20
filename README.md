@@ -13,3 +13,9 @@ The daily log of 100 days of Javascript 🧑‍💻
 - Continued the freecode camp video refreshing basics
 - Operators, loops, conditional outputs
 - Objects : updating , deleting , inserting its properties
+
+## Day 3
+
+- Continued the freecode camp video
+- loops , preventing mutations using freeze()
+- arrow functions, rest & spread operator, array destructuring
