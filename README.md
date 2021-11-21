@@ -19,3 +19,10 @@ The daily log of 100 days of Javascript 🧑‍💻
 - Continued the freecode camp video
 - loops , preventing mutations using freeze()
 - arrow functions, rest & spread operator, array destructuring
+
+## Day 4
+
+- Finished the freecode camp video
+- class syntax, constructors, getter and setter
+- import/export ,require vs import, export default
+- made a simple game using [Code Candy Crush in 85 Seconds - Full JavaScript Course 🍬](https://www.youtube.com/watch?v=kLJWmOTbdQo)
