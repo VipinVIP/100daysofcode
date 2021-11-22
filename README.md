@@ -26,3 +26,9 @@ The daily log of 100 days of Javascript 🧑‍💻
 - class syntax, constructors, getter and setter
 - import/export ,require vs import, export default
 - made a simple game using [Code Candy Crush in 85 Seconds - Full JavaScript Course 🍬](https://www.youtube.com/watch?v=kLJWmOTbdQo)
+
+## Day 5
+
+- Updated the candy crush game with adding logic for horizontal matching
+- understand the **this** keyword more
+- eventlisteners in javascript and calling functions on trigger

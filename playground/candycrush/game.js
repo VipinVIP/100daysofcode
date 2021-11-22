@@ -36,6 +36,7 @@ function dragDrop() {
   this.textContent = candyDragged
   squares[idDragged].textContent = candyReplaced
 
+  //vertical check
   for (let i = 0; i <= 2; i++) {
     if (
       squares[i].textContent == squares[i + 3].textContent &&
@@ -43,6 +44,18 @@ function dragDrop() {
     ) {
       points.textContent = parseInt(points.textContent) + 1
       for (j = 0; j <= 6; j += 3) {
+        squares[i + j].textContent = getCandy()
+      }
+    }
+  }
+  //horizontal check
+  for (let i = 0; i <= 6; i += 3) {
+    if (
+      squares[i].textContent == squares[i + 1].textContent &&
+      squares[i].textContent == squares[i + 2].textContent
+    ) {
+      points.textContent = parseInt(points.textContent) + 1
+      for (j = 0; j <= 2; j++) {
         squares[i + j].textContent = getCandy()
       }
     }
