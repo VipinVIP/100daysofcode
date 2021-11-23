@@ -32,3 +32,8 @@ The daily log of 100 days of Javascript 🧑‍💻
 - Updated the candy crush game with adding logic for horizontal matching
 - understand the **this** keyword more
 - eventlisteners in javascript and calling functions on trigger
+
+## Day 6
+
+- creating calculator using js referring [WebDevSimplified](https://www.youtube.com/watch?v=j59qQ7YWLxw)
+- learn more on operations on strings
