@@ -37,3 +37,8 @@ The daily log of 100 days of Javascript 🧑‍💻
 
 - creating calculator using js referring [WebDevSimplified](https://www.youtube.com/watch?v=j59qQ7YWLxw)
 - learn more on operations on strings
+
+## Day 7
+
+- generators in javascript , uses
+- Optional Chaining
