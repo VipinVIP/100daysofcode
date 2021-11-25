@@ -42,3 +42,8 @@ The daily log of 100 days of Javascript 🧑‍💻
 
 - generators in javascript , uses
 - Optional Chaining
+
+## Day 8
+
+- composition vs inheritence
+- object freeze and labeling loops
