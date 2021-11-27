@@ -52,10 +52,6 @@ class Calculator {
     this.previousOperand = ""
   }
 
-  getDisplayNumber(number) {
-    return number
-  }
-
   updateDisplay() {
     this.currentOperandTextElement.innerText = this.getDisplayNumber(
       this.currentOperand
@@ -64,6 +60,28 @@ class Calculator {
       this.previousOperandTextElement.innerText = `${this.getDisplayNumber(
         this.previousOperand
       )}${this.operation}`
+    } else {
+      this.previousOperandTextElement.innerText = ""
+    }
+  }
+
+  //styling the number display adding commas
+  getDisplayNumber(number) {
+    const stringnumber = number.toString()
+    const integerDigits = parseFloat(stringnumber.split(".")[0])
+    const decimalDigits = stringnumber.split(".")[1]
+    let integerDisplay
+    if (isNaN(integerDigits)) {
+      integerDisplay = ""
+    } else {
+      integerDisplay = integerDigits.toLocaleString("en", {
+        maximumFractionDigits: 0,
+      })
+    }
+    if (decimalDigits != null) {
+      return `${integerDisplay}.${decimalDigits}`
+    } else {
+      return integerDisplay
     }
   }
 }

@@ -47,3 +47,8 @@ The daily log of 100 days of Javascript 🧑‍💻
 
 - composition vs inheritence
 - object freeze and labeling loops
+
+## Day 9
+
+- modified the display f calculator to include styling with commas
+- learn more on composition
